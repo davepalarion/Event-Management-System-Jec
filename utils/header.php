@@ -81,9 +81,9 @@
     <div class = "col-md-12">
         <div class = "container">
             <div class = "jumbotron" style="color:black;"><!--jumbotron-->
-                <h1>We host the best events for you across India in any city with proper management</h1><!--jumbotron heading-->
+                <h1>You celebrate, we'll take care of the rest!</h1><!--jumbotron heading-->
                 <p><!--jumbotron content-->
-                  Controlling chaos is what event management is all about. There’s  a lot to manage with conferences, marketing events, and similar productions. Fortunately, today’s best event management processes help you with every aspect of your event journey.
+                We are an all-inclusive event service that allows you to seamlessly stream your celebration to guests anywhere in the world. We provide expert technical support as well as an incredibly talented staff so you can sit back, relax and enjoy the occasion!
                 </p>
             </div>
         </div>

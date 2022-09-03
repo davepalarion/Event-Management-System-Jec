@@ -37,12 +37,13 @@
             </div>
 
             <div class="container">
-                <div class="col-md-6 contacts">
-                    <h1><span class="glyphicon glyphicon-user"></span> Amritanshu Verma</h1>
+                <div class="col-md-6 contacts"><center>
+                    <h1><span> <img src="images/pic1.jpg" class="img-responsive" width="150" height="50"></span> Jec Robante</h1>
                     <p>
-<span class="glyphicon glyphicon-envelope"></span> Email: amritanshu26dec@gmail.com<br>
-                        <span class="glyphicon glyphicon-phone"></span> Mobile: (+91)6205805714
+<span class="glyphicon glyphicon-envelope"></span> Email: jecrobante@gmail.com<br>
+                        <span class="glyphicon glyphicon-phone"></span> Mobile: (+63)9123456789
                     </p>
+                    </center>
                 </div>
                 <div class="col-md-6">
                     <form method="post">
