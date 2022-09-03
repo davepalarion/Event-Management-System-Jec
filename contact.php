@@ -43,22 +43,24 @@
 <span class="glyphicon glyphicon-envelope"></span> Email: jecrobante@gmail.com<br>
                         <span class="glyphicon glyphicon-phone"></span> Mobile: (+63)9123456789
                     </p>
+                    <img src="images/map.png" class="img-responsive" width="500" height="200">
                     </center>
                 </div>
                 <div class="col-md-6">
                     <form method="post">
                         <div class="form-group">
                             <label for="Title">Title:</label>
-                            <input type="text" name="title" id="Title" class="form-control">
+                            <input type="text" name="title" id="Title" class="form-control" placeholder="Type your Title here" >
                         </div>
                         <div class="form-group">
                             <label for="Comment">Message:</label>
-                            <textarea id="Comment" rows="10" name="message" class="form-control"></textarea>
+                            <textarea id="Comment" rows="15" name="message" class="form-control" placeholder="Type your concern here"></textarea>
                         </div>
                         <button type="submit"  name="submit" class="btn btn-default pull-right">Send</button>
                     </form>
                 </div>
             </div>
+            
 
 
         </div><!--body content div-->
