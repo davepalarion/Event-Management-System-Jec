@@ -85,6 +85,8 @@
                 <p><!--jumbotron content-->
                 We are an all-inclusive event service that allows you to seamlessly stream your celebration to guests anywhere in the world. We provide expert technical support as well as an incredibly talented staff so you can sit back, relax and enjoy the occasion!
                 </p>
+                <img src="images/divider.gif" class="img-responsive" width="1500" height="30">
+
             </div>
         </div>
     </div>
